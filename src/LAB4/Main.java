@@ -20,6 +20,7 @@ public class Main {
 //        o.podanyKolor(1);
 //        o.usuwanieZakrytych();
 //        o.wyswietl();
+        //fsdfsfsf
     }
     public void menu(){
         OneWayLinkedListWithHead<Karta> o = new OneWayLinkedListWithHead<>();
